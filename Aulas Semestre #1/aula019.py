@@ -1,0 +1,4 @@
+#.itens()
+#.keys()
+#.values()
+#.copy()

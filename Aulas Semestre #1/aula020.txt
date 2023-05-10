@@ -1,0 +1,25 @@
+Funções
+----------------------
+-> Rotinas
+        ex: print(), len(), input(), int(), float().
+
+-> Possibilidade de criar comandos
+-> Comando: def
+        def mostralinha():
+            print('-'*30)
+        
+        mostralinha()
+
+-> Parametros
+        def mensagem(msg):
+            print('-'*30)
+            print(msg)
+            print('-'*30)
+        
+        mensagme('Sistema de alunos')
+
+-> Empacotador de Parametros
+            def contador(*num):
+                xxxxxxxxxxxxxx
+            
+            contador(1, 2, 4, 3, 2, 1, 3)
